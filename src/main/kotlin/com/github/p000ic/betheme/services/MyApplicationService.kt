@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.p000ic.betheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.p000ic.betheme.MyBundle
 
 class MyApplicationService {
 

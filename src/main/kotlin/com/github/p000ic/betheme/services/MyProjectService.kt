@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.p000ic.betheme.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.p000ic.betheme.MyBundle
 
 class MyProjectService(project: Project) {
 
